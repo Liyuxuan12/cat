@@ -25,6 +25,6 @@ public class Cat{
 	
 	public void setWeight(Double weight){
 		this.weight=weight;
-		System.out.println("cat...");
+		System.out.println("这是猫的体重");
 	}
 }
