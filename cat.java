@@ -25,5 +25,6 @@ public class Cat{
 	
 	public void setWeight(Double weight){
 		this.weight=weight;
+		System.out.println("cat...");
 	}
 }
